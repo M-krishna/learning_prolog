@@ -1,3 +1,8 @@
+/**
+    Introducing "Variables" in Rules
+    and "and"(comma) in conditions
+**/
+
 manager(alice).
 manager(bob).
 
